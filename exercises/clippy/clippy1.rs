@@ -13,7 +13,7 @@
 use std::f32::consts::PI;
 
 fn main() {
-    let radius = 5.00f32;
+    let radius = 5.0f32;
 
     let area = PI * f32::powi(radius, 2);
 
